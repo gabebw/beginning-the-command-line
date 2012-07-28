@@ -16,7 +16,7 @@ in day-to-day programming.
 
 ## Commit format
 
-* First line: "Completing challenge N."
+* First line: "Completing challenge N (COMMAND)."
 * Second line: blank.
 * Third-last lines: Detail the commands you ran, following the bulleted list in
   the challenge.
@@ -25,7 +25,7 @@ Follow the format [here](http://tbaggery.com/2008/04/19/a-note-about-git-commit-
 
 Sample:
 
-    Finished challenge 1.
+    Finished challenge 1 (ls).
 
     * ls --foo
     * ls -1 \
