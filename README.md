@@ -9,11 +9,29 @@ in day-to-day programming.
 * Fork the repo
 * Read the first challenge, in `1.md`
 * All challenges assume that you are in the `demo/` folder.
-* When you figure out how to complete it, make a commit detailing what commands you ran:
-  `[1] ls *`. If the command doesn't fit on one line, make it part of the text
-  of the commit message, as detailed [here](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html).
+* When you figure out how to complete it, make a commit detailing what commands
+  you ran. See the "Commit format" section below for guidelines.
 * Move on to `2.md`.
 * Rinse and repeat.
+
+## Commit format
+
+* First line: "Completing challenge N."
+* Second line: blank.
+* Third-last lines: Detail the commands you ran, following the bulleted list in
+  the challenge.
+
+Follow the format [here](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html).
+
+Sample:
+
+    Finished challenge 1.
+
+    * ls --foo
+    * ls -1 \
+         --foo \
+         --bar \
+    * ls --bar -H
 
 ## More info
 
