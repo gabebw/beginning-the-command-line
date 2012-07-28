@@ -1,7 +1,8 @@
 # Get better at UNIX
 
 This repo is a demonstrative set of files meant to train you to be better at
-UNIX.
+UNIX. Every challenge is something I use often or have found to be very useful
+in day-to-day programming.
 
 ## How to Play
 
