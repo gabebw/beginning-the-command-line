@@ -20,3 +20,8 @@ in day-to-day programming.
 Each challenge builds on previous ones, and each one introduces only one new
 concept. If you've mastered challenge N and you know how to use `man`, then you
 can do challenge N+1.
+
+## Does the name of this repo refer to anything?
+
+Why yes! It refers to a Neal Stephenson essay called "In the Beginning was the
+Command Line". To download it, [go here](http://www.cryptonomicon.com/beginning.html).
