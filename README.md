@@ -11,3 +11,5 @@ UNIX.
 * When you figure out how to complete it, make a commit detailing what commands you ran:
   `[1] ls *`. If the command doesn't fit on one line, make it part of the text
   of the commit message, as detailed [here](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html).
+* Move on to `2.md`.
+* Rinse and repeat.
